@@ -2,8 +2,6 @@
 <h1 align="center">Hola 👋, soy Rubert Gonzalez</h1>
 <h3 align="center">Un desarrollador Frontend apasionado por la programación</h3>
 
-- 🌱 Actualmente estoy aprendiendo **UX/UI, node, express e ingles.**
-
 - 👨‍💻 Algunos de mis proyectos están disponibles en [rubertweb.dev](https://rubertweb.dev)
 
 - 📝 Escribo artículos sobre programacion en [rubertweb.dev/blog](https://rubertweb.dev/blog)
