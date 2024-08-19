@@ -8,6 +8,8 @@
 
 - 📫 Cómo contactarme en **rubertgonzalez5@gmail.com**
 
+- 🌐 CEO de [@webminds.col](https://www.instagram.com/webminds.col/), si necesitas servicios web puedes contactarnos
+
 <h3 align="left">Contáctame por:</h3>
 <p align="left">
 <a href="https://twitter.com/rubert_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rubert_g" height="30" width="40" /></a>
